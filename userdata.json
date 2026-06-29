@@ -1,1 +1,14 @@
-ea05a9a4dff5a731:25/06/2026
+[
+    {
+        "device_id": "5ac27c6222ef12da",
+        "key": "213351",
+        "expirydate": "08-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
