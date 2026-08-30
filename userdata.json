@@ -10,5 +10,11 @@
         "key": "godfather",
         "expirydate": "25-01-2028",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a24714738d8486fb",
+        "key": "suthar",
+        "expirydate": "01-01-2027",
+        "Allowoffline": true
     }
 ]
