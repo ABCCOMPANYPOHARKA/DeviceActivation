@@ -3,12 +3,12 @@
         "device_id": "de41dd29cd1026b8",
         "key": "213351",
         "expirydate": "06-09-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "ea05a9a4dff5a731",
         "key": "godfather",
-        "expirydate": "25-01-2028",
+        "expirydate": "25-01-2026",
         "Allowoffline": false
     },
     {
@@ -21,12 +21,12 @@
         "device_id": "9fb13be2b7a71764",
         "key": "123",
         "expirydate": "01-01-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "af6aaaa0adcc80ae",
         "key": "mahadev",
         "expirydate": "01-01-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
