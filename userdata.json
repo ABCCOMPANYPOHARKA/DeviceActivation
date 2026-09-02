@@ -15,7 +15,7 @@
         "device_id": "a24714738d8486fb",
         "key": "suthar",
         "expirydate": "01-01-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "9fb13be2b7a71764",
