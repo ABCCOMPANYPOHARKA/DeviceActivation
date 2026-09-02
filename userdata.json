@@ -9,7 +9,7 @@
         "device_id": "ea05a9a4dff5a731",
         "key": "godfather",
         "expirydate": "25-01-2028",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "a24714738d8486fb",
